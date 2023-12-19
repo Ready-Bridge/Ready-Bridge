@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Ready-Bridge&fontSize=50&fontColor=white" />
-  ![header](https://capsule-render.vercel.app/api?text=hi&animation=twinkling)
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Ready-Bridge&fontSize=50&fontColor=white&animation=twinkling" />
 </p>
 
 <p align="center">
