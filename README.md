@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=#B897FF&height=300&section=header&text="Ready-Bridge"&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=500&section=header&text=텍스트&fontSize=100" />
