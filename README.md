@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0%:'EEFF00'&height=250&section=header&text=Ready-Bridge&fontSize=50&fontColor=black&stroke=pink&strokeWidth=0.5&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=#B19CD9&height=250&section=header&text=Ready-Bridge&fontSize=50&fontColor=black&stroke=FFC0CB&strokeWidth=0.5&animation=twinkling" />
 </p>
 
 <p align="center">
