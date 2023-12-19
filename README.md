@@ -45,5 +45,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=6FC7E1&height=250&section=header/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=250&section=header/>
 </p>
