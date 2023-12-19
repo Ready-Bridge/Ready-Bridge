@@ -45,5 +45,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA883&height=250&section=header&text=&fontSize=50&fontColor=black&stroke=FFC0CB&strokeWidth=0.5&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA883&height=250&section=footer&text=&fontSize=50&fontColor=black&stroke=FFC0CB&strokeWidth=0.5&animation=twinkling" />
 </p>
