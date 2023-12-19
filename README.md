@@ -8,9 +8,7 @@
   </a>
 </p>
 
-<div> ![image](https://github.com/Ready-Bridge/Ready-Bridge/assets/127172335/0df3ab76-c4a2-4e44-be92-e627e958dc48)
-기술 스택 ![image](https://github.com/Ready-Bridge/Ready-Bridge/assets/127172335/aa9dc0b4-3861-4df9-a02d-74efb605d1d3)
-</div>
+<div> <h3> 🤖Technology Stack🤖 </h3></div>
 <p align = "center">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
