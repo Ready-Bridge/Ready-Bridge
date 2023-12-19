@@ -45,5 +45,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&fontSize=50&fontColor=white&stroke-width=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&fontSize=50&fontColor=white&stroke-width=1 style="transform: scaleY(-1);" />
 </p>
