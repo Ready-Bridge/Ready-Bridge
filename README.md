@@ -4,4 +4,4 @@
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ready-Bridge&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ready-Bridge&layout=Demo&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ready-Bridge&theme=dracula)
