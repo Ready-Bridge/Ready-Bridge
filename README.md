@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Ready-Bridge&fontSize=50&fontColor=white" />
+  ![header](https://capsule-render.vercel.app/api?text=hi&animation=twinkling)
 </p>
 
 <p align="center">
@@ -43,7 +44,3 @@
 <br>
 <br>
 <br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&fontSize=50&fontColor=white&stroke-width=1" style="transform: scaleY(-1)/>
-</p>
