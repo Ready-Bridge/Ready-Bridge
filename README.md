@@ -1,15 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=FFA883&height=250&section=header&text=Ready-Bridge&fontSize=50&fontColor=black&stroke=FFC0CB&strokeWidth=0.5&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=FFA883&height=250&section=header&text=Ready-Bridge&fontSize=50&fontColor=black&stroke=FFC0CB&strokeWidth=0.7&animation=twinkling" />
 </p>
 
-<p align="center">
-  <a href="https://solved.ac/hjk5533/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hjk5533" alt="Solved.ac Profile" />
-  </a>
-</p>
-
-<br>
-<br>
 
 <h3 align = "center"> 🤖Technology Stack🤖 </h3>
 
@@ -40,6 +32,13 @@
 
 <br>
 <br>
+
+<p align="center">
+  <a href="https://solved.ac/hjk5533/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hjk5533" alt="Solved.ac Profile" />
+  </a>
+</p>
+
 <br>
 <br>
 <br>
