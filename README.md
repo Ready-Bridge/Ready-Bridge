@@ -49,6 +49,7 @@
 <br>
 <br>
 
+<h3 align = "center"> ✨Algorithm✨ </h3>
 
 <p align="center">
   <a href="https://solved.ac/hjk5533/">
