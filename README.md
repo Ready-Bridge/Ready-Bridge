@@ -51,6 +51,9 @@
 
 <h3 align = "center"> ✨Algorithm✨ </h3>
 
+<br>
+<br>
+
 <p align="center">
   <a href="https://solved.ac/hjk5533/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hjk5533" alt="Solved.ac Profile" />
