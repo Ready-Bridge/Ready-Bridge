@@ -3,7 +3,7 @@
 </p>
 
 
-<h3 align = "center"> 🤖Technology Stack🤖 </h3>
+<h3 align = "center"> 💡Technology Stack💡 </h3>
 
 <br>
 <br>
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<h3 align = "center"> 📚Languages📚 </h3>
+<h3 align = "center"> 🌈Languages🌈 </h3>
 
 <br>
 <br>
@@ -34,6 +34,13 @@
 
 <br>
 <br>
+
+<h3 align = "center"> 🔥Certificates🔥 </h3>
+
+<br>
+<br>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0ba04096-4f65-4d3f-8b80-43c0430783c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <p align="center">
   <a href="https://solved.ac/hjk5533/">
