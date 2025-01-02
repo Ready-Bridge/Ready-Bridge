@@ -40,7 +40,11 @@
 <br>
 <br>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0ba04096-4f65-4d3f-8b80-43c0430783c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="center">
+<a href="https://www.credly.com/badges/0ba04096-4f65-4d3f-8b80-43c0430783c9/public_url">
+<img width=200 src="https://github.com/Ready-Bridge/Ready-Bridge/blob/main/saa.png"/>
+</a>
+</p>
 
 <p align="center">
   <a href="https://solved.ac/hjk5533/">
